@@ -9,3 +9,4 @@ Set VObj = CreateObject("SAPI.SpVoice")
 		.Rate = Text
 		.Speak strText
 	end with
+
