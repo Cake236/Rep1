@@ -1,3 +1,4 @@
+'*/ To explore Txt to Speech VB Libaray for app embedding use/*'
 voic = inputbox("Voice (0 = male and 1 = female)")
 stroText = inputbox("Volume (Num.)")
 Text = inputbox("Speed (Num.)")
