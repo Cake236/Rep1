@@ -12,4 +12,4 @@ Set VObj = CreateObject("SAPI.SpVoice")
 
 
 
-hello
+'hello
