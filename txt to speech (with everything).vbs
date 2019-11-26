@@ -13,4 +13,4 @@ Set VObj = CreateObject("SAPI.SpVoice")
 
 
 
-'hello
+'*/ Hello, now help me to control within audible range for both speed and volume using conditions */'
