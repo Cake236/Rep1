@@ -10,3 +10,6 @@ Set VObj = CreateObject("SAPI.SpVoice")
 		.Speak strText
 	end with
 
+
+
+hello
